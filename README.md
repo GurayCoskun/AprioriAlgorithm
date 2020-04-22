@@ -3,6 +3,9 @@ Problem is about which products stand side by side on the market shelves. I reac
 This algoritm works with 0.3 support count.
 
 F1 : ['BREAD', 'BISCUIT', 'TEA', 'COFFEE']
+
 F2 :  [{'BREAD', 'BISCUIT'}, {'BREAD', 'TEA'}, {'BISCUIT', 'TEA'}]
+
 and more :  [{'BREAD', 'BISCUIT', 'TEA'}]
+
 and more :  [ ]
